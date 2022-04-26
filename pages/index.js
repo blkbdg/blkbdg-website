@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
        <span className={styles.logo}>
-         <Image src="/BLK.png" alt="Black Badge Logo" width={400} height={400} />
+         <Image src="/blkbdglogo.jpg" alt="Black Badge Logo" width={400} height={400} />
        </span>
       </main>
     </div>
